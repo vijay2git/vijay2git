@@ -18,12 +18,13 @@
 
 "Talent is never enough without discipline."
 
-🏆 DISCIPLINE    ⚡ SPEED    🧠 INTELLIGENCE    🔥 CONSISTENCY    🚀 EXECUTION
+🏆 DISCIPLINE    ⚡ SPEED    🧠 INTELLIGENCE    🔥 CONSISTENCY    🚀 EXECUTION
 
 </div>
 
-🧬 WHO AM I?
+## 🧬 WHO AM I?
 
+```
 ┌──────────────────────────────────────────────────────────────────┐
 │   👨‍💻 VIJAYARAGHAVAN S                                           │
 │                                                                  │
@@ -39,244 +40,106 @@
 │   I don't just learn technologies.                               │
 │   I build with them.                                             │
 └──────────────────────────────────────────────────────────────────┘
+```
 
 I am an AI & ML student, full-stack developer and freelancer focused on building real-world products — from intelligent systems and APIs to polished web experiences.
 
-🔥 CURRENTLY BUILDING
+---
+
+## 🔥 CURRENTLY BUILDING
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-🧠 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-
-<br/><br/>
-
-RAG Systems • Machine Learning<br/>Embeddings • LLM Applications • AI APIs
-
-</td>
-<td width="50%" align="center">
-
-🌐 FULL STACK
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
-
-<br/><br/>
-
-Modern Web Applications<br/>Interactive Interfaces • API Integration
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-
-<br/><br/>
-
-REST APIs • Authentication<br/>Backend Architecture • Database Integration
-
-</td>
-<td width="50%" align="center">
-
-☁️ CLOUD
-
-<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,firebase,supabase" />
-
-<br/><br/>
-
-Deployment • Cloud Databases<br/>Containers • Production Infrastructure
-
-</td>
-</tr>
-</table>
+| | |
+|:-:|:-:|
+| **🧠 AI / ML**<br/><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /><br/><br/>RAG Systems • Machine Learning<br/>Embeddings • LLM Applications • AI APIs | **🌐 FULL STACK**<br/><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" /><br/><br/>Modern Web Applications<br/>Interactive Interfaces • API Integration |
+| **⚙️ BACKEND**<br/><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" /><br/><br/>REST APIs • Authentication<br/>Backend Architecture • Database Integration | **☁️ CLOUD**<br/><img src="https://skillicons.dev/icons?i=docker,vercel,netlify,firebase,supabase" /><br/><br/>Deployment • Cloud Databases<br/>Containers • Production Infrastructure |
 
 </div>
 
-⚔️ MY TECH ARSENAL
+---
+
+## ⚔️ MY TECH ARSENAL
 
 <div align="center">
 
-🧠 AI / MACHINE LEARNING
-
+### 🧠 AI / MACHINE LEARNING
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
-<br/>
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-
-<br/><br/>
-
-🌐 FRONTEND
-
+### 🌐 FRONTEND
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,bootstrap" />
 
-<br/><br/>
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge"/>
-
-<br/><br/>
-
-⚙️ BACKEND
-
+### ⚙️ BACKEND
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" />
 
-<br/><br/>
-
-🗄️ DATABASES
-
+### 🗄️ DATABASES
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase,supabase" />
 
-<br/><br/>
-
-☁️ CLOUD / DEVOPS
-
+### ☁️ CLOUD / DEVOPS
 <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,firebase,supabase,git,github,linux" />
 
-<br/><br/>
-
-🛠️ TOOLS
-
+### 🛠️ TOOLS
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,npm,nodejs" />
 
 </div>
 
-🧠 TECHNOLOGY MATRIX
+---
 
-                         VIJAY'S STACK
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-          FRONTEND         BACKEND             AI
-             │                │                │
-       ┌─────┴─────┐    ┌─────┴─────┐    ┌────┴─────┐
-       │           │    │           │    │          │
-     React       Next   FastAPI    Flask  Python    RAG
-       │           │    │           │    │          │
-   Tailwind      Vite  REST API   Auth   ML       LLM
-       │           │    │           │    │          │
-   TypeScript   Motion Docker    APIs  Embeddings  Ollama
-                              │
-                              ▼
-                           DATABASE
-                              │
-                    ┌─────────┼─────────┐
-                    │         │         │
-                PostgreSQL  MongoDB  Supabase
-                              │
-                              ▼
-                            CLOUD
-                              │
-                    ┌─────────┼─────────┐
-                    │         │         │
-                  Vercel   Netlify   Firebase
+## 🧠 TECHNOLOGY MATRIX
 
-🚀 FEATURED PROJECTS
+```
+                    VIJAY'S STACK
+                         │
+            ┌────────────┼────────────┐
+            │            │            │
+         FRONTEND     BACKEND         AI
+            │            │            │
+        ┌───┴───┐    ┌────┴─────┐  ┌─┴──┐
+        │       │    │          │  │    │
+      React  Next  FastAPI    Flask Python RAG
+        │       │    │          │  │    │
+    Tailwind  Vite REST API   Auth ML  LLM
+        │       │    │          │  │    │
+   TypeScript Motion Docker APIs Embeddings Ollama
+                         │
+                         ▼
+                      DATABASE
+                         │
+               ┌─────────┼─────────┐
+               │         │         │
+           PostgreSQL  MongoDB  Supabase
+                         │
+                         ▼
+                       CLOUD
+                         │
+               ┌─────────┼─────────┐
+               │         │         │
+             Vercel   Netlify   Firebase
+```
 
-<div align="center">
+---
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 FEATURED PROJECTS
 
-🧠 RAGCore
+| | |
+|:-:|:-:|
+| **🧠 RAGCore**<br/>Retrieval-Augmented Generation System<br/><br/>```Python → Embeddings → ChromaDB → Retriever → LLM → Answer```<br/><br/>✓ Local AI assistant<br/>✓ Vector search<br/>✓ Semantic retrieval<br/>✓ Knowledge-base Q&A | **🛡️ Aegis AI**<br/>Intelligent Customer Support<br/><br/>```Next.js + TypeScript + Gemini API → AI Support System```<br/><br/>✓ AI customer support<br/>✓ Agent builder<br/>✓ Knowledge base<br/>✓ Operations dashboard |
+| **🏠 HomeValue**<br/>Real Estate Price Prediction<br/><br/>```Data → Preprocessing → ML Model → Prediction → Web Interface```<br/><br/>✓ Machine Learning<br/>✓ Data processing<br/>✓ Prediction pipeline<br/>✓ Full-stack integration | **🚨 Smart Public Complaint Resolver**<br/>AI-powered complaint processing<br/><br/>```Complaint → Classification → Priority → Routing → Resolution```<br/><br/>✓ Automation<br/>✓ AI classification<br/>✓ Backend APIs<br/>✓ Real-world workflow |
 
-Retrieval-Augmented Generation System
+---
 
-Python
-   ↓
-Embeddings
-   ↓
-ChromaDB
-   ↓
-Retriever
-   ↓
-LLM
-   ↓
-Answer
+## ⚡ DEVELOPMENT PHILOSOPHY
 
-🔹 Local AI assistant🔹 Vector search🔹 Semantic retrieval🔹 Knowledge-base Q&A
-
-</td>
-<td width="50%">
-
-🛡️ Aegis AI
-
-Intelligent Customer Support Infrastructure
-
-Next.js
-   +
-TypeScript
-   +
-Gemini API
-   ↓
-AI Support System
-
-🔹 AI customer support🔹 Agent builder🔹 Knowledge base🔹 Operations dashboard
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-🏠 HomeValue
-
-Real Estate Price Prediction
-
-Data
- ↓
-Preprocessing
- ↓
-ML Model
- ↓
-Prediction
- ↓
-Web Interface
-
-🔹 Machine Learning🔹 Data processing🔹 Prediction pipeline🔹 Full-stack integration
-
-</td>
-<td width="50%">
-
-🚨 Smart Public Complaint Resolver
-
-AI-powered complaint processing
-
-Complaint
-   ↓
-Classification
-   ↓
-Priority
-   ↓
-Routing
-   ↓
-Resolution
-
-🔹 Automation🔹 AI classification🔹 Backend APIs🔹 Real-world workflow
-
-</td>
-</tr>
-</table>
-
-</div>
-
-⚡ DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
+```
        IDEA
         │
         ▼
@@ -311,10 +174,11 @@ Resolution
         │
         ▼
       SHIP 🚀
+```
 
-</div>
+---
 
-📊 GITHUB PERFORMANCE
+## 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
@@ -328,7 +192,9 @@ Resolution
 
 </div>
 
-🐍 CONTRIBUTION ATTACK
+---
+
+## 🐍 CONTRIBUTION ATTACK
 
 <div align="center">
 
@@ -336,7 +202,9 @@ Resolution
 
 </div>
 
-🏆 GITHUB TROPHIES
+---
+
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -344,7 +212,9 @@ Resolution
 
 </div>
 
-📈 ACTIVITY
+---
+
+## 📈 ACTIVITY GRAPH
 
 <div align="center">
 
@@ -352,75 +222,50 @@ Resolution
 
 </div>
 
-🧰 WHAT I BUILD
+---
 
-<div align="center">
+## 🧰 WHAT I BUILD
 
-DOMAIN
+| Domain | What I Build |
+|---|---|
+| **🧠 AI / ML** | RAG systems, ML applications, AI assistants |
+| **🌐 Frontend** | Modern interactive web applications |
+| **⚙️ Backend** | FastAPI / Flask REST APIs |
+| **🗄️ Database** | PostgreSQL, MongoDB, Firebase, Supabase |
+| **☁️ Cloud** | Vercel, Netlify, Firebase |
+| **🐳 DevOps** | Docker, Git, GitHub |
+| **🎨 Creative** | UI/UX, visual design, video editing |
+| **💼 Freelance** | Websites, web applications & automation |
 
-WHAT I BUILD
+---
 
-🧠 AI / ML
+## 🔥 THE STACK
 
-RAG systems, ML applications, AI assistants
+```
+              ┌──────────────────────┐
+              │      VIJAY 2.0       │
+              └──────────┬───────────┘
+                         │
+           ┌─────────────┼─────────────┐
+           │             │             │
+           ▼             ▼             ▼
+        CREATE       ENGINEER      INTELLIGENCE
+           │             │             │
+        DESIGN       BACKEND          AI
+           │             │             │
+        FRONTEND      DATABASE         ML
+           │             │             │
+        MOTION         CLOUD           RAG
+           │             │             │
+           └─────────────┼─────────────┘
+                         │
+                         ▼
+                    🚀 SHIP IT
+```
 
-🌐 Frontend
+---
 
-Modern interactive web applications
-
-⚙️ Backend
-
-FastAPI / Flask REST APIs
-
-🗄️ Database
-
-PostgreSQL, MongoDB, Firebase, Supabase
-
-☁️ Cloud
-
-Vercel, Netlify, Firebase
-
-🐳 DevOps
-
-Docker, Git, GitHub
-
-🎨 Creative
-
-UI/UX, visual design, video editing
-
-💼 Freelance
-
-Websites, web applications & automation
-
-</div>
-
-🔥 THE STACK
-
-<div align="center">
-
-                 ┌──────────────────────┐
-                 │      VIJAY 2.0       │
-                 └──────────┬───────────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-       CREATE            ENGINEER          INTELLIGENCE
-          │                 │                 │
-       DESIGN            BACKEND             AI
-          │                 │                 │
-       FRONTEND          DATABASE            ML
-          │                 │                 │
-       MOTION             CLOUD             RAG
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                            ▼
-                       🚀 SHIP IT
-
-</div>
-
-⚡ CURRENT MISSION
+## ⚡ CURRENT MISSION
 
 <div align="center">
 
@@ -428,32 +273,31 @@ Websites, web applications & automation
 
 </div>
 
-🤝 LET'S CONNECT
+---
+
+## 🤝 LET'S CONNECT
 
 <div align="center">
 
-<a href="https://github.com/vijay2git">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijay2git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayaraghavan-s)
 
 <br/><br/>
 
-💻 BUILD SOMETHING.
+💻 **BUILD SOMETHING.**
 
-🧠 LEARN SOMETHING.
+🧠 **LEARN SOMETHING.**
 
-⚡ SHIP SOMETHING.
+⚡ **SHIP SOMETHING.**
 
 </div>
+
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:111111,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-SIUUUU ⚡
+**SIUUUU ⚡**
 
 </div>
