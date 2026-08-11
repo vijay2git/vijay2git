@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" role="img" aria-label="Abstract elite football inspired developer hero">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020202"/><stop offset=".58" stop-color="#090909"/><stop offset="1" stop-color="#171107"/></linearGradient>
+ <linearGradient id="gold"><stop stop-color="#fff2a6"/><stop offset=".45" stop-color="#d4af37"/><stop offset="1" stop-color="#72550e"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#d4af37" stop-opacity=".28"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1600" height="620" fill="url(#bg)"/>
+<ellipse cx="800" cy="270" rx="470" ry="300" fill="url(#halo)" filter="url(#blur)"/>
+
+<!-- stadium architecture -->
+<path d="M70 430 Q800 30 1530 430" fill="none" stroke="#242424" stroke-width="4"/>
+<path d="M180 445 Q800 120 1420 445" fill="none" stroke="#141414" stroke-width="2"/>
+
+<!-- floodlights -->
+<g fill="#f8e9a0">
+ <g transform="translate(105 105)">
+  <path d="M0 330 L70 0 L140 330" fill="#0b0b0b"/>
+  <rect x="48" y="24" width="44" height="84" rx="5" fill="#d4af37"/>
+  <g><circle cx="58" cy="38" r="5"/><circle cx="74" cy="38" r="5"/><circle cx="90" cy="38" r="5"/>
+  <circle cx="58" cy="58" r="5"/><circle cx="74" cy="58" r="5"/><circle cx="90" cy="58" r="5"/>
+  <circle cx="58" cy="78" r="5"/><circle cx="74" cy="78" r="5"/><circle cx="90" cy="78" r="5"/></g>
+ </g>
+ <g transform="translate(1355 105)">
+  <path d="M0 330 L70 0 L140 330" fill="#0b0b0b"/>
+  <rect x="48" y="24" width="44" height="84" rx="5" fill="#d4af37"/>
+  <g><circle cx="58" cy="38" r="5"/><circle cx="74" cy="38" r="5"/><circle cx="90" cy="38" r="5"/>
+  <circle cx="58" cy="58" r="5"/><circle cx="74" cy="58" r="5"/><circle cx="90" cy="58" r="5"/>
+  <circle cx="58" cy="78" r="5"/><circle cx="74" cy="78" r="5"/><circle cx="90" cy="78" r="5"/></g>
+ </g>
+</g>
+
+<!-- beams -->
+<path d="M175 160 L650 430 L500 430Z" fill="#f5d76e" opacity=".045"/>
+<path d="M1425 160 L950 430 L1100 430Z" fill="#f5d76e" opacity=".045"/>
+
+<!-- speed lines -->
+<g fill="none" stroke="url(#gold)" stroke-linecap="round">
+ <path d="M120 455 Q470 355 760 405" stroke-width="6" stroke-dasharray="90 30">
+  <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="1.4s" repeatCount="indefinite"/>
+ </path>
+ <path d="M180 490 Q480 410 730 440" stroke-width="2" opacity=".5" stroke-dasharray="55 25">
+  <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="1.8s" repeatCount="indefinite"/>
+ </path>
+</g>
+
+<!-- abstract bicycle kick -->
+<g fill="#030303" stroke="#252525" stroke-width="4">
+ <ellipse cx="805" cy="290" rx="88" ry="64" transform="rotate(-12 805 290)"/>
+ <circle cx="900" cy="235" r="30"/>
+ <path d="M760 300 Q670 255 565 180 Q530 155 500 132 Q484 120 494 105 Q506 90 524 101 L630 154 Q715 198 830 244Z"/>
+ <path d="M790 330 Q700 365 615 425 Q565 456 520 474 Q500 482 490 465 Q484 450 501 437 L585 365 Q665 292 742 270Z"/>
+ <path d="M770 270 Q690 250 615 215 L575 185 Q565 175 574 163 Q583 151 598 158 L650 187 Q730 205 805 232Z"/>
+</g>
+
+<!-- ball trajectory -->
+<path d="M520 105 C720 5 980 45 1190 175 C1300 242 1370 160 1450 105" fill="none" stroke="#d4af37" stroke-width="3" stroke-dasharray="14 12" opacity=".9">
+ <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="1.5s" repeatCount="indefinite"/>
+</path>
+<g>
+ <circle cx="520" cy="105" r="25" fill="#eee" stroke="#d4af37" stroke-width="3"/>
+ <path d="M507 96 l13 -10 14 8 -2 15 -14 9 -12 -8z" fill="#111"/>
+ <animateTransform attributeName="transform" type="translate" values="0 0;18 -7;0 0" dur="1.5s" repeatCount="indefinite"/>
+</g>
+
+<!-- particles -->
+<g fill="#d4af37">
+ <circle cx="360" cy="220" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="1160" cy="290" r="2"><animate attributeName="opacity" values="1;.1;1" dur="1.7s" repeatCount="indefinite"/></circle>
+ <circle cx="1280" cy="350" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="420" cy="360" r="2"><animate attributeName="opacity" values="1;.1;1" dur="2.1s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- typography -->
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+ <text x="800" y="475" fill="#d4af37" font-size="15" letter-spacing="9">DISCIPLINE • PRECISION • EXECUTION</text>
+ <text x="800" y="525" fill="#fff" font-size="42" font-weight="800" letter-spacing="6">BUILD. GRIND. REPEAT.</text>
+ <text x="800" y="560" fill="#777" font-size="13" letter-spacing="4">VIJAYARAGHAVAN S  /  AI • FULL-STACK • FREELANCE</text>
+</g>
+</svg>
