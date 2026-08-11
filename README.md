@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=VIJAYARAGHAVAN%20S&fontSize=48&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Building.%20Breaking.%20Learning.%20Rebuilding%20Better.&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
+<!-- HERO: custom animated SVG — stadium lights, speed trail, bicycle-kick silhouette -->
+<img src=".github/assets/hero-bicycle-kick.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Full-Stack+Developer;Freelancer;Work+Hard.+Stay+Focused.+Keep+Improving." alt="Typing SVG" />
+<h1>VIJAYARAGHAVAN S</h1>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Freelancer;Building.+Breaking.+Learning.+Rebuilding+Better.;Work+Hard.+Stay+Focused.+Keep+Improving." alt="Typing SVG" />
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vijay2git&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/vijay2git?color=D4AF37&style=flat-square&label=FOLLOWERS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:000000&height=3&width=100%" width="100%"/>
-
-<br/>
+<img src=".github/assets/stadium-divider.svg" width="100%"/>
 
 ## &nbsp;&nbsp;⚡ DEVELOPER PROFILE
 
@@ -35,13 +35,11 @@ MOTTO    : carpediem!!
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:D4AF37&height=3&width=100%" width="100%"/>
+<img src=".github/assets/stadium-divider.svg" width="100%"/>
 
 ## &nbsp;&nbsp;🛠 MY PLAYING XI — TECH STACK
 
-> ⚠️ **Note:** I could only confirm a few of your repos from the screenshot you shared (SimpleNntp, streamlit-rag, chromadb-rag, bday-19). The categories below are placeholders — replace `<...>` with your real stack once you send the full repo list, so nothing here is invented.
+> ⚠️ **Note:** I only have confirmed evidence of a handful of your repos (SimpleNntp, streamlit-rag, chromadb-rag, bday-19) from the screenshot you shared. The rest below are placeholders — send your full repo list and I'll replace `<...>` with your real stack instead of guessing.
 
 <table align="center">
 <tr>
@@ -82,9 +80,7 @@ Git • GitHub
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:000000&height=3&width=100%" width="100%"/>
+<img src=".github/assets/stadium-divider.svg" width="100%"/>
 
 ## &nbsp;&nbsp;⚡ MATCH HIGHLIGHTS — PROJECTS
 
@@ -130,9 +126,7 @@ A simple NNTP-based prototype using MySQL and Java
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:D4AF37&height=3&width=100%" width="100%"/>
+<img src=".github/assets/stadium-divider.svg" width="100%"/>
 
 ## &nbsp;&nbsp;📊 CAREER STATS
 
@@ -145,9 +139,7 @@ A simple NNTP-based prototype using MySQL and Java
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:000000&height=3&width=100%" width="100%"/>
+<img src=".github/assets/stadium-divider.svg" width="100%"/>
 
 ## &nbsp;&nbsp;🏋️ CURRENTLY TRAINING
 
@@ -158,9 +150,7 @@ A simple NNTP-based prototype using MySQL and Java
 → <add your real focus areas>
 ```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:D4AF37&height=3&width=100%" width="100%"/>
+<img src=".github/assets/stadium-divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -177,6 +167,6 @@ A simple NNTP-based prototype using MySQL and Java
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+<img src=".github/assets/hero-bicycle-kick.svg" width="100%"/>
 
 </div>
